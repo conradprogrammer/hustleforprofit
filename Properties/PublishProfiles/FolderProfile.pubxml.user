@@ -4,8 +4,5 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
 -->
 <Project>
   <PropertyGroup>
-    <_PublishTargetUrl>C:\Users\Administrator\source\repos\WJ_HustleForProfit_003\WJ_HustleForProfit_003\bin\publish\</_PublishTargetUrl>
-    <History>True|2024-08-24T15:42:41.0333053Z||;True|2024-08-24T08:41:30.4893022-07:00||;True|2024-08-24T08:33:34.4628808-07:00||;True|2024-06-27T11:17:41.8363812-07:00||;</History>
-    <LastFailureDetails />
   </PropertyGroup>
 </Project>
