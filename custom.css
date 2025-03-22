@@ -1,0 +1,14 @@
+﻿/* Debugging background color */
+.collapsed-header .wisej-panel-header {
+    background-color: red !important; /* Use !important to override other styles */
+}
+
+/* Rotate the panel header text to be on top when the panel is collapsed to the left */
+.collapsed-header .wisej-panel-header .wisej-panel-title {
+    transform: rotate(-90deg);
+    transform-origin: top left;
+    position: absolute;
+    top: 0;
+    left: 0;
+    white-space: nowrap; /* Prevent text wrapping */
+}

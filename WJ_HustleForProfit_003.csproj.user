@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <NameOfLastUsedPublishProfile>FolderProfile</NameOfLastUsedPublishProfile>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="Forms\frmAudiobookCreation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\frmAudiobooks.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\frmEBookCreation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\frmHome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\frmHustleListing.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\frmMemberDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\frmStrategy30.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\frmUserProfile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\frmSocialMarketing.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\frmVideoPlayer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MyDesktop.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Test\frmTwitterAPI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
